@@ -1,0 +1,16 @@
+{
+  "name": "sidamo-node",
+  "version": "1.0.0",
+  "description": "A web application for finding nearby coffee shops",
+  "main": "index.js",
+  "dependencies": {
+    "@google/maps": "^0.4.3",
+    "dotenv": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "simongle",
+  "license": "ISC"
+}
